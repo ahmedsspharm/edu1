@@ -8,11 +8,12 @@
 1. Spectrophotometer
 2. Spectrofluotometer
 3. Conductometer
+
 ---
-###Writing codes
+### Writing codes
 ---
-"""
+```
 amflk
 amlk
 mv
-"""
+```
